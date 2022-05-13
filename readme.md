@@ -1,3 +1,3 @@
 # Uitleg 
 
-voorbeeld GIT#
+voorbeeld GIT
